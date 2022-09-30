@@ -11,7 +11,7 @@
 - 😄 fun fact- I've watched game of thrones twice.
 - ⚡ Steve jobs- Stay Hungry Stay foolish.
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | C++ | C 
+- 💻 &nbsp; Python | C++ | C <br>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Flask | ML
 - 🛢 &nbsp; MySQL | MongoDB
 <h3>🛠 To Learn</h3>

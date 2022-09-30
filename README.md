@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://linkedin.com/in/aniket-katare-b55661224/" target="blank">
   <img align="center" alt="aniket's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://https://www.instagram.com/aniketkatare22/" target="blank">
+ <a href="https://www.instagram.com/aniketkatare22/" target="blank">
   <img align="center" alt="aniket's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/SahilKu63818007" target="blank">

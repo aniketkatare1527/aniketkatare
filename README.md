@@ -17,10 +17,10 @@
 <h3>🛠 To Learn</h3>
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | Deep learning.
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulkarni08&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=SahilKulkarni08&show_icons=true&count_private=true)](https://github.com/anandmainali">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkatare1527&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=aniketkatare1527&show_icons=true&count_private=true)](https://github.com/anandmainali">
 <!---
-SahilKulkarni08/SahilKulkarni08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aniketkatare1527/aniketkatare1527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <br>
@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.instagram.com/aniketkatare22/" target="blank">
   <img align="center" alt="aniket's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/SahilKu63818007" target="blank">
-  <img align="center" alt="sahil's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ <a href="https://twitter.com/aniketkatare22" target="blank">
+  <img align="center" alt="aniket's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  
   <br/>

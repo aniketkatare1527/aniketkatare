@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://linkedin.com/in/sahil-kulkarni-611a70202" target="blank">
-  <img align="center" alt="sahil's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://linkedin.com/in/aniket-katare-b55661224/" target="blank">
+  <img align="center" alt="aniket's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://instagram.com/sahilkulkarni08?igshid=mowg69crbaub" target="blank">
-  <img align="center" alt="sahil's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://https://www.instagram.com/aniketkatare22/" target="blank">
+  <img align="center" alt="aniket's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/SahilKu63818007" target="blank">
   <img align="center" alt="sahil's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;

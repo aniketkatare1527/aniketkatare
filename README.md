@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Flask | ML <br>
 - 🛢 &nbsp; MySQL | MongoDB
 <h3>🛠 To Learn</h3>
-- 🔧 &nbsp; AWS | Docker
+- 🔧 &nbsp; AWS | Docker <br>
 - 🐳 | Firebase | Deep learning.
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkatare1527&show_icons=true">
